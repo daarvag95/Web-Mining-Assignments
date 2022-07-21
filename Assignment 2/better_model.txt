@@ -1,0 +1,7 @@
+The Scores obtained were:
+AIC for order 1: 367691.0240090471
+BIC for order 1: 1592035.710648168
+AIC for order 2: 143308856.87445766
+BIC for order 2: 651414844.9659588
+So according to the obtained scores the order 1 models are better since their scores are lower. 
+This might be because the scores also take a penalty into account for the (estimated) number of parameters. 
